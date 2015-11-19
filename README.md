@@ -15,3 +15,4 @@ How to Compile
 Windows Version Support
 =======================
 * Windows 7
+* Windows 10
