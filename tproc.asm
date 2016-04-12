@@ -1,6 +1,6 @@
 ;   -------------------------------------
 ;   tproc - Tiny Windows Process Viewer
-;   Copyright (C) 2015 Chris Andrews
+;   Copyright (C) 2016 Chris Andrews
 ;   -------------------------------------
 
 format	PE CONSOLE 4.0 
