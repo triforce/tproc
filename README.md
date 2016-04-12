@@ -1,5 +1,5 @@
 # tproc
-A tiny Windows command line process viewer written in Assembly language.
+A <b>t</b>iny Windows command line <b>proc</b>ess viewer written in Assembly language.
 
 <h3>Features</h3>
 * Lists all running processes with their corresponding process id (PID)
