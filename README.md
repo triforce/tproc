@@ -6,9 +6,17 @@ A <b>t</b>iny Windows command line <b>proc</b>ess viewer written in Assembly lan
 * Executable a lean 2KB in size
 
 <h3>How to Compile</h3>
-* Install flat assembler (http://flatassembler.net/) for Windows
-* Compile via the command line by running 'fasm tproc.asm' or with the IDE using the menu 'Run->Compile'
-* This will create the tproc executable
+Install flat assembler (http://flatassembler.net/) for Windows
+
+Switch to the directory to where it has installed:
+
+<pre>cd \path\to\fasm</pre>
+
+Compile via the command line using:
+
+<pre>fasm tproc.asm</pre>
+
+You can also use the fasm editor to compile the binary.
 
 <h3>Windows Version Support</h3>
 * Windows 7
